@@ -1,8 +1,11 @@
 # Hi there👋, I'm Liza
 ### Computer science student, RU
 I am studying to be a web developer based on Yandex practicum
+
 I love computer games
+
 In my free time I read manga and watch anime
+
 Collecting funko pop
 
 ### :hammer_and_wrench: Languages and Tools :
